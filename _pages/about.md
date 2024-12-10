@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
+    <p>18905748935</p>
     <p>123 your address street</p>
     <p>Ningbo, Zhejiang 315000</p>
 
