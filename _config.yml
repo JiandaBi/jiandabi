@@ -197,7 +197,7 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: fase
     permalink: /:collection/:title/
 
 announcements:
